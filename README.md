@@ -1,5 +1,5 @@
 # Functional Python [![](https://github.com/oklipfel/functional-python/workflows/tests/badge.svg)](https://github.com/oklipfel/functional-python/actions?query=workflow%3Atests)
-
+ 
 ## Instructions
 
 1. Fork this repo
